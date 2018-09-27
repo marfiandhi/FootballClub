@@ -8,6 +8,8 @@ import android.widget.LinearLayout
 import android.widget.TextView
 import com.squareup.picasso.Picasso
 import divascion.marfiandhi.footballclub.R
+import divascion.marfiandhi.footballclub.R.id.team_badge
+import divascion.marfiandhi.footballclub.R.id.team_name
 import divascion.marfiandhi.footballclub.model.data.Team
 import org.jetbrains.anko.*
 import org.jetbrains.anko.sdk25.coroutines.onClick

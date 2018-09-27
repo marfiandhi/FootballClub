@@ -59,7 +59,7 @@ class TeamUI : AnkoComponent<ViewGroup> {
 
 }
 
-class FavoriteViewHolder(view: View) : RecyclerView.ViewHolder(view){
+class FavoriteViewHolder(view: View) : RecyclerView.ViewHolder(view) {
 
     private val teamBadge: ImageView = view.find(team_badge)
     private val teamName: TextView = view.find(team_name)
